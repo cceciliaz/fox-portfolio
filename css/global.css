@@ -23,3 +23,9 @@ img{
     text-transform: uppercase;
     max-width: 4ch;
 }
+@media(max-width: 800px){
+    .subtitulo{
+        font-size: 3rem;
+        max-width: inherit;
+    }
+}
