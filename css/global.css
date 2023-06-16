@@ -26,6 +26,6 @@ img{
 @media(max-width: 800px){
     .subtitulo{
         font-size: 3rem;
-        max-width: inherit;
+        max-width: initial !important; 
     }
 }
